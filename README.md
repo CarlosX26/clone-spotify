@@ -7,7 +7,7 @@ Trata-se de um aplicativo React simples no qual o desenvolvedor deu seus primeir
 Clone o projeto
 
 ```bash
-  git@github.com:CarlosX26/clone-spotify.git
+  git clone git@github.com:CarlosX26/clone-spotify.git
 ```
 
 Entre no diretório do projeto
